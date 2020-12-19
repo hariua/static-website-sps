@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+.nav1
+{
+	font-size: 1.5em;
+	margin-left: 1.2em;
+
+}
+.nav1:hover
+{
+	background-color:rgba(0,0,0,0.15);
+	border-radius: 0em 0.5em;
+	
+}
+.home{
+	height: 30em;
+		background: #3C3B3F;
+	background: -webkit-linear-gradient(to right, #605C3C, #3C3B3F); 
+	background: linear-gradient(to right, #605C3C, #3C3B3F); 
+
+}
+.heading{
+	margin-left:4em;
+	margin-top:4em;
+	font-size: 3em;
+	font-family: 'Josefin Sans', sans-serif;
+	letter-spacing: 0.1em;
+}
+.head-sub{
+	margin-left: 9em;
+	font-size:1.5em;
+	letter-spacing: 0.6em;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.head-text{
+	font-style: oblique;
+	font-size: 1.2em;
+	margin-left: 10em;
+	margin-top:1em;
+	letter-spacing: 0.15em;
+}
+.about{
+	height: 40em;
+	background-image: linear-gradient( 110.3deg,  rgba(72,85,99,1) 8.8%, rgba(127,146,166,1) 95.1% );
+}
+.about-content
+{
+	background: linear-gradient(to right, #605C3C, #3C3B3F); 
+
+	font-size: 1.5em;
+	margin-left: 1.7em;
+	text-align: justify;
+	height: 20em;
+}
+.service-col
+{
+	background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+	height:auto;
+
+}
+.card-img-top{
+	text-align: center;
+	color: green;
+	font-size: 3em;
+}
+.contact-col{
+	background: #3C3B3F;
+	background: -webkit-linear-gradient(to right, #605C3C, #3C3B3F); 
+	background: linear-gradient(to right, #605C3C, #3C3B3F); 
+	height: auto;
+
+}
+.social-media{
+	color: white;
+	font-size: 1.5em;
+	margin-left: 1.1em;
+	text-decoration: none;
+}
+.social-media:hover
+{
+	background-color: white;
+	color:rgba(8,28,245,1.00);
+	padding-left: 0.25em;
+	padding-right: 0.25em;
+	border-radius: 2em;
+}
